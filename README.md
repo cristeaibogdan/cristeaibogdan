@@ -7,8 +7,7 @@ Glad to see you here! I'm Bogdan Cristea, a software developer looking to improv
 - Learn & grow as a full stack developer by exploring technologies and building projects.
 
 ## 🔭 Current Projects
-- I'm currently honing my skills with my personal project, `Hephaestus`, an application for issuing recommendations for various household appliances.
-- Check it out at: https://cristeaibogdan.github.io/hephaestus-web/home
+- I'm currently honing my skills with my personal project, `Hephaestus`, an application for issuing recommendations for various household appliances. Check it out at: https://cristeaibogdan.github.io/hephaestus-web/home
 
 ## 🌱 Interests
 - Software engineering
